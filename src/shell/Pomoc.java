@@ -33,6 +33,7 @@ public class Pomoc {
         System.out.println("dl nazwaPliku     - kasuje plik");
         System.out.println("pomoc             - pomoc");
         System.out.println("wyjdz             - wyjście z programu");
+        System.out.println("---------------------------- POMOC -----------------------------------");
         System.out.println();
     }
 
